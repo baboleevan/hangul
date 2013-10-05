@@ -5,19 +5,19 @@
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 400;
-  src: url(//github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot);
-  src: url(//github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+  src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot);
+  src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
        url() format('woff2'),
-       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff) format('woff'),
-       url(//github.com/openhiun/hangul/raw/master/NanumBarunGothic.ttf) format('truetype');
+       url(https://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff) format('woff'),
+       url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 700;
-  src: url(//github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot);
-  src: url(//github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+  src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot);
+  src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
        url() format('woff2'),
-       url(//github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.woff) format('woff'),
-       url(//github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.ttf) format('truetype');
+       url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.woff) format('woff'),
+       url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.ttf) format('truetype');
 }
