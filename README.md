@@ -36,8 +36,8 @@ font-family: 'Nanum Barun Gothic', sans-serif;
 
 # Nanum Barun Gothic Web Fonts
 
-In October 2013, South Korea's biggest internet portal [Naver.com][navermain] has created 'Nanum Barun Gothic' font to 
-celebrate 'Hangul Day' and encourage usage of hangul. I created Nanum Barun Gothic to web fonts for my personal needs. 
+In October 2013, South Korea's biggest internet portal [Naver.com][navermain] has released 'Nanum Barun Gothic' font to 
+celebrating 'Hangul Day' and encourage usage of hangul. I created Nanum Barun Gothic to web fonts for my personal needs. 
 Everyone is welcome to use this and sooner or later Google Web API are supporting Nanum Barun Gothic, I recommand use that instead of this.
 (But it dosen't mean do not use this.)
 
