@@ -54,7 +54,7 @@ To use font, insert below code to ``<head>``tag on your HTML document.
 
 **@import**
 
-To use font, insert below code to Stylesheel in``<head>``tag on your HTML document.
+To use font, insert below code to Stylesheet in``<head>``tag on your HTML document.
 ```
 @import url(https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css);
 ```
