@@ -1,5 +1,4 @@
 English docs are avaliable on [here][english-version]
-
 # 나눔바른고딕 웹폰트
 
 네이버에서 2013년 10월 한글날등을 기념하여 만든 [나눔바른고딕][naver]을 웹폰트로 제작하였습니다.
