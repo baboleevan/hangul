@@ -1,6 +1,6 @@
 # 나눔바른고딕 웹폰트
 
-네이버에서 2013년 10월 한글날등을 기념하여 만든 [나눔바른고딕][navermain]을 웹폰트로 제작하였습니다.
+네이버에서 2013년 10월 한글날등을 기념하여 만든 [나눔바른고딕][naver]을 웹폰트로 제작하였습니다.
 제작 의도는 제 개인적인 사용이 목적이 었으며, 구글 웹폰트등 정식 배포 서비스가 나오면 그것을 사용해 주시기 바랍니다. 
 (그렇다고 이것을 사용하지 말라는 것은 아닙니다.)
 
@@ -36,7 +36,7 @@ font-family: 'Nanum Barun Gothic', sans-serif;
 
 # Nanum Barun Gothic Web Fonts
 
-In October 2013, South Korea's biggist internet portal [Naver.com] has created 'Nanum Barun Gothic' font to 
+In October 2013, South Korea's biggest internet portal [Naver.com][navermain] has created 'Nanum Barun Gothic' font to 
 celebrate 'Hangul Day' and encourage usage of hangul. I created Nanum Barun Gothic to web fonts for my personal needs. 
 Everyone is welcome to use this and sooner or later Google Web API are supporting Nanum Barun Gothic, I recommand use that instead of this.
 (But it dosen't mean do not use this.)
