@@ -7,7 +7,6 @@
   font-weight: 400;
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot);
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
-       url() format('woff2'),
        url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.woff) format('woff'),
        url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.ttf) format('truetype');
 }
@@ -17,7 +16,6 @@
   font-weight: 700;
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot);
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
-       url() format('woff2'),
        url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.woff) format('woff'),
        url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.ttf) format('truetype');
 }
