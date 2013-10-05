@@ -29,6 +29,24 @@
 font-family: 'Nanum Barun Gothic', sans-serif;
 ```
 
+예를들어 폰트를 body에 적용시키고 싶다면 아래처럼 하시면 됩니다.
+```
+<style type="text/css">
+body {
+  font-family: 'Nanum Barun Gothic', sans-serif;
+}
+</style>
+```
+
+혹은 text라 불리는 클래스에 적용시키고 싶으시다면 아래와 같겠죠?
+```
+<style type="text/css">
+.text {
+  font-family: 'Nanum Barun Gothic', sans-serif;
+}
+</style>
+```
+
 ## 데모
 
 [데모 페이지][demo]에서 나눔바른고딕을 적용한 페이지를 보실수 있습니다.
@@ -61,9 +79,27 @@ To use font, insert below code to stylesheet in``<head>``tag on your HTML docume
 
 ## Applying
 
-To applying font, Add below code into class or id on your stylesheet.
+To applying font, add below code into your stylesheet.
 ```
 font-family: 'Nanum Barun Gothic', sans-serif;
+```
+
+For instance, if you want applying font on body doing like this.
+```
+<style type="text/css">
+body {
+  font-family: 'Nanum Barun Gothic', sans-serif;
+}
+</style>
+```
+
+or applying font on class name like text, code is something like below? 
+```
+<style type="text/css">
+.text {
+  font-family: 'Nanum Barun Gothic', sans-serif;
+}
+</style>
 ```
 
 ## Demo
