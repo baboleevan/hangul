@@ -1,6 +1,6 @@
-English docs are avaliable on [here][english-version]
 # 나눔바른고딕 웹폰트
 
+English docs are avaliable on [here][english-version]
 네이버에서 2013년 10월 한글날등을 기념하여 만든 [나눔바른고딕][naver]을 웹폰트로 제작하였습니다.
 제작 의도는 제 개인적인 사용이 목적이 었으며, 구글 웹폰트등 정식 배포 서비스가 나오면 그것을 사용해 주시기 바랍니다. 
 (그렇다고 이것을 사용하지 말라는 것은 아닙니다.)
