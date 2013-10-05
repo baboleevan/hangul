@@ -11,7 +11,7 @@
 * 기본
 
 웹사이트HTML문서의 <HEAD>안에 아래 코드를 붙혀 넣으시면 됩니다.
-<code><link href='https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'></code>
+``<pre><link href='https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'></pre>``
 
 
 * @import
