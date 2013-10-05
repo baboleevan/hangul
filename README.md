@@ -1,4 +1,4 @@
-You can see English version of this document on [here][english-version]
+English docs are avaliable on [here][english-version]
 
 # 나눔바른고딕 웹폰트
 
@@ -107,7 +107,7 @@ or applying font on class name like text, code is something like below?
 ## Demo
 You can checkout Nanum Barun Gothic applied page at [Demo Page][demo]
 
-[english-version] https://github.com/openhiun/hangul#nanum-barun-gothic-web-fonts
+[english-version]: https://github.com/openhiun/hangul#nanum-barun-gothic-web-fonts
 [naver]: http://hangeul.naver.com/
 [demo]: http://www.openhiun.com/hangul/
 [navermain]: http://www.naver.com
