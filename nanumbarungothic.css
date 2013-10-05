@@ -8,7 +8,7 @@
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot);
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
        url() format('woff2'),
-       url(https://themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff) format('woff'),
+       url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.woff) format('woff'),
        url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.ttf) format('truetype');
 }
 @font-face {
