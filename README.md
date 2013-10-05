@@ -10,14 +10,14 @@
 
 **기본**
 
-웹사이트HTML문서의 <HEAD>안에 아래 코드를 붙혀 넣으시면 됩니다.
+웹사이트HTML문서의 ``<head>``안에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
 <link href='http://fonts.googleapis.com/css?family=Kite+One' rel='stylesheet' type='text/css'>
 ```
 
 **@import**
 
-웹사이트HTML문서의 <HEAD>안에 아래 코드를 붙혀 넣으시면 됩니다.
+웹사이트HTML문서의 ``<head>``안의 스타일 시트(``<style>...</style>``)에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
 @import url(https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css);
 ```
@@ -32,3 +32,5 @@ font-family: 'Nanum Barun Gothic', sans-serif;
 ## 데모
 
 [데모 페이지][demo]에서 나눔바른고딕을 적용한 페이지를 보실수 있습니다.
+
+[demo]: http://www.openhiun.com/hangul/
