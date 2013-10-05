@@ -17,7 +17,7 @@
 
 **@import**
 
-웹사이트HTML문서의 ``<head>``안의 스타일 시트(``<style>...</style>``)에 아래 코드를 붙혀 넣으시면 됩니다.
+웹사이트HTML문서의 ``<head>``안의 스타일 시트에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
 @import url(https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css);
 ```
