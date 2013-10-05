@@ -1,9 +1,3 @@
-<style>
-body {
-  font-family: 'Nanum Barun Gothic', sans-serif;
-}
-</style>
-
 # 나눔바른고딕 웹폰트
 
 네이버에서 2013년 10월 한글날등을 기념하여 만든 나눔바른고딕을 웹폰트로 제작하였습니다.
@@ -35,5 +29,6 @@ body {
 font-family: 'Nanum Barun Gothic', sans-serif;
 ```
 
+## 데모
 
-
+[데모 페이지][demo]에서 나눔바른고딕을 적용한 페이지를 보실수 있습니다.
