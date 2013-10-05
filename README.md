@@ -11,7 +11,8 @@
 * 기본
 
 웹사이트HTML문서의 <HEAD>안에 아래 코드를 붙혀 넣으시면 됩니다.
-<pre><></pre>
+<pre>
+<link href='http://fonts.googleapis.com/css?family=Kite+One' rel='stylesheet' type='text/css'></pre>
 
 
 * @import
