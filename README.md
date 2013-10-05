@@ -12,7 +12,7 @@
 
 웹사이트HTML문서의 ``<head>``안에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
-<link href='http://fonts.googleapis.com/css?family=Kite+One' rel='stylesheet' type='text/css'>
+<link href='https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css' rel='stylesheet' type='text/css'>
 ```
 
 **@import**
