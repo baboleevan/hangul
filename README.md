@@ -1,3 +1,5 @@
+You can see English version of this document on [here][english-version]
+
 # 나눔바른고딕 웹폰트
 
 네이버에서 2013년 10월 한글날등을 기념하여 만든 [나눔바른고딕][naver]을 웹폰트로 제작하였습니다.
@@ -105,6 +107,7 @@ or applying font on class name like text, code is something like below?
 ## Demo
 You can checkout Nanum Barun Gothic applied page at [Demo Page][demo]
 
+[english-version] https://github.com/openhiun/hangul#nanum-barun-gothic-web-fonts
 [naver]: http://hangeul.naver.com/
 [demo]: http://www.openhiun.com/hangul/
 [navermain]: http://www.naver.com
