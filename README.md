@@ -6,7 +6,7 @@
 
 ## 시작하기
 
-나눔바른고딕 웹폰트의 깃허브 호스팅은 묶음형태의 CSS파일로 제공되며 3가지 형식으로 사용할수 있습니다.
+나눔바른고딕 웹폰트는 2가지 형태으로 사용할수 있습니다.
 
 **기본**
 
@@ -43,7 +43,7 @@ Everyone is welcome to use this and sooner or later Google Web API are supportin
 
 ## Getting Started
 
-You can use Nanum Barun Gothic in different way.
+Nanum Barun Gothic web fonts are available on 2 different way.
 
 **Standard**
 
