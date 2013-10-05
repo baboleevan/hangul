@@ -68,7 +68,6 @@ font-family: 'Nanum Barun Gothic', sans-serif;
 
 ## Demo
 You can checkout Nanum Barun Gothic applied page at [Demo Page][demo]
-[데모 페이지][demo]에서 나눔바른고딕을 적용한 페이지를 보실수 있습니다.
 
 [naver]: http://hangeul.naver.com/
 [demo]: http://www.openhiun.com/hangul/
