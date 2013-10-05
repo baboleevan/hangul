@@ -1,3 +1,6 @@
+<style>
+</style>
+
 # 나눔바른고딕 웹폰트
 
 네이버에서 2013년 10월 한글날등을 기념하여 만든 나눔바른고딕을 웹폰트로 제작하였습니다.
@@ -8,12 +11,14 @@
 
 나눔바른고딕 웹폰트의 깃허브 호스팅은 묶음형태의 CSS파일로 제공되며 3가지 형식으로 사용할수 있습니다.
 
+
 **기본**
 
 웹사이트HTML문서의 <HEAD>안에 아래 코드를 붙혀 넣으시면 됩니다.
 ```
 <link href='http://fonts.googleapis.com/css?family=Kite+One' rel='stylesheet' type='text/css'>
 ```
+
 
 
 **@import**
