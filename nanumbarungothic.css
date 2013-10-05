@@ -12,7 +12,7 @@
        url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothic.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Nanum Barun Gothic';
+  font-family: 'Nanum Barun Gothic Bold';
   font-style: normal;
   font-weight: 700;
   src: url(https://github.com/openhiun/hangul/raw/master/NanumBarunGothicBold.eot);
