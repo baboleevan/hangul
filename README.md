@@ -19,14 +19,16 @@
 * @import
 
 웹사이트HTML문서의 <HEAD>안에 아래 코드를 붙혀 넣으시면 됩니다.
-<pre>@import url(https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css);</pre>
+```
+@import url(https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css);
+```
 
 ## 적용하기
 
 폰트를 적용하려면 폰트 이름을  적용하길 원하는 CSS에 다음과 같이 추가하시면 됩니다.
-<pre>font-family: 'Nanum Barun Gothic', sans-serif;</pre>
-
-https://raw.github.com/openhiun/hangul/master/nanumbarungothic.css
+```
+font-family: 'Nanum Barun Gothic', sans-serif;
+```
 
 
 
